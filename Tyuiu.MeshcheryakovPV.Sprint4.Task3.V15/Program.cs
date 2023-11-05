@@ -13,7 +13,7 @@ namespace Tyuiu.MeshcheryakovPV.Sprint4.Task3.V15
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #4 | Выполнил: Мещеряков П. В. | ИИПб-23-2";
+            Console.Title = "Спринт #4 | Выполнил: Мещеряков П. В. | ИИПб-23-2"; 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Обработка структурных типов                                       *");
